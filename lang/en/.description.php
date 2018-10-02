@@ -1,0 +1,5 @@
+<?
+$MESS ['FLXMD_CONTENT_PAGE_COMPONENT_NAME'] = "Order make";
+$MESS ['FLXMD_CONTENT_PAGE_COMPONENT_DESC'] = "Components order make";
+$MESS ['FLXMD_COMPONENT_SECTION_NAME'] = "Flex Media";
+?>
