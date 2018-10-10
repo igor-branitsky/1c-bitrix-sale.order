@@ -1,2 +1,12 @@
 <?
+$MESS['FLXMD_ORDER_SALE_AUTH_ERROR'] = 'You are already logged in.';
+$MESS['FLXMD_ORDER_SALE_AUTH_SUCCESS'] = 'You are logged in';
+$MESS['FLXMD_ORDER_SALE_AUTH_ERROR_LOGIN_OR_PASS'] = 'Invalid username or password';
+$MESS['FLXMD_ORDER_SALE_AUTH_NOT_FIELD'] = 'All required fields are missing.';
+$MESS['FLXMD_ORDER_SALE_REGION_BREST'] = 'Brest';
+$MESS['FLXMD_ORDER_SALE_REGION_VITEBSK'] = 'Vitebsk';
+$MESS['FLXMD_ORDER_SALE_REGION_GOMEL'] = 'Gomel';
+$MESS['FLXMD_ORDER_SALE_REGION_GRODNO'] = 'Grodno';
+$MESS['FLXMD_ORDER_SALE_REGION_MINSK'] = 'Minsk';
+$MESS['FLXMD_ORDER_SALE_REGION_MOGILEV'] = 'Mogilev';
 ?>

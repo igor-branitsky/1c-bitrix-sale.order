@@ -1,0 +1,14 @@
+.qwe{
+	opacity: 0;
+	width: 0px;
+	height: 0px;
+	position: absolute;
+}
+.error-auth-form{
+	color:red;
+	font-size:16px;
+}
+.success-auth-form{
+	color:green;
+	font-size:16px;
+}
